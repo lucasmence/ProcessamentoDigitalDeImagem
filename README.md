@@ -31,10 +31,11 @@ Em todos as operações, é possivel visualizar o HISTOGRAMA gerado na nova imag
 # Requisitos
 
 Este projeto foi desenvolvido e executado 100% no sistema operacional Linux, então para poder estar executando este projeto em seu laptop é necessario:
--> Instalar o Python 3 
--> Instalar o Python-Pip
--> Instalar o PyQt5
--> Instalar o pacote numpy utilizando o Pip
+
+* Instalar o Python 3 
+* Instalar o Python-Pip
+* Instalar o PyQt5
+* Instalar o pacote numpy utilizando o Pip
 
 É possivel executar no S.O. Windows também, porém é necessario realizar alguns ajustes de forma manual.
 
