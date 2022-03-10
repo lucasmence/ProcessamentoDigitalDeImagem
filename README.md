@@ -1,15 +1,5 @@
 # Processamento Digital de Imagens v1.0
-Repositório destinado ao projeto de processamento digital de imagens! 
-
-# Objetivo
-O intuito deste trabalho é mostrar o funcionamento de diferentes tipos de processamento de imagens.
-Desenvolvido com o objetivo principal de entrega de trabalho da faculdade, UniSALESIANO Araçatuba - SP, disciplina de Processamento Digital de Imagens com a professora Lucilena de Lima. (Maio de 2018)
-
-# Autor
-Lucas da Silva
-e-mail: mencethedeveloper@gmail.com
-
-Uso e distribuição gratuita, sobre licensa MIT.
+Repositório destinado ao projeto de processamento digital de imagens.
 
 # Conteúdo
 As funções existentes neste pacote são:
